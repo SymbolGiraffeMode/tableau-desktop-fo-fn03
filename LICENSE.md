@@ -1,4 +1,4 @@
-
+Tableau Desktop for macOS updated Script: template-library & pivot-tables offers the most advanced Tableau Desktop for macOS script, with template-library and pivot-tables. Ideal
 
 
 
